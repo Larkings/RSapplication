@@ -1,6 +1,6 @@
 ***
 
-# Discrete Math: RSA Encryption and Decryption
+# RSA Encryption and Decryption
 
 ***
 
